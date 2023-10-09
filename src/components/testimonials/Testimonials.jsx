@@ -14,8 +14,7 @@ import { Pagination } from "swiper/modules";
 const Testimonials = () => {
     return (
         <section className='testimonial container section' id='testimonials'>
-            <h2 className='section__title'>My clients say</h2>
-            <span className='section__subtitle'>Testimonial</span>
+            <h2 className='section__title'>Some of my clients</h2>
 
             <Swiper
                 className='testimonial__container'
@@ -27,10 +26,10 @@ const Testimonials = () => {
                 }}
                 breakpoints={{
                     576: {
-                        slidesPerView: 2,
+                        slidesPerView: 3,
                     },
                     768: {
-                        slidesPerView: 2,
+                        slidesPerView: 3,
                         spaceBetween: 48,
                     },
                 }}
@@ -44,11 +43,6 @@ const Testimonials = () => {
                                 alt=''
                                 className='testimonial__img'
                             />
-
-                            <h3 className='testimonial__name'>{title}</h3>
-                            <p className='testimonial__description'>
-                                {description}
-                            </p>
                         </SwiperSlide>
                     );
                 })}
