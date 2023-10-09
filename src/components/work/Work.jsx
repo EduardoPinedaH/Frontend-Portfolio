@@ -1,7 +1,6 @@
 import React from "react";
 import "./work.css";
 import Works from "./Works";
-import { projectsData } from "./Data";
 
 const Work = () => {
     return (

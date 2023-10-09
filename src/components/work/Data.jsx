@@ -1,39 +1,53 @@
-import Work1 from "../../assets/work1.jpg";
-import Work2 from "../../assets/work2.jpg";
-import Work3 from "../../assets/work3.jpg";
-import Work4 from "../../assets/work4.jpg";
-import Work5 from "../../assets/work5.jpg";
+import Work1 from "../../assets/codingquiz2.png";
+import Work2 from "../../assets/goalhub.png";
+import Work3 from "../../assets/encriptador2.png";
+import Work4 from "../../assets/oregonracing2.png";
+import Work5 from "../../assets/roomiehunt2.png";
+import Work6 from "../../assets/solarwaffle2.png";
+import Work7 from "../../assets/videoportfolio2.png";
 
 export const projectsData = [
     {
         id: 1,
-        image: Work1,
-        title: "Web design",
-        category: "web",
+        image: Work5,
+        title: "roomiehunt",
+        category: "HTML & CSS",
     },
     {
         id: 2,
         image: Work2,
-        title: "App movil",
-        category: "app",
+        title: "GoalHub",
+        category: "React App",
     },
     {
         id: 3,
-        image: Work3,
-        title: "Brand design",
-        category: "design",
+        image: Work4,
+        title: "Oregon Racing",
+        category: "HTML & CSS",
     },
     {
         id: 4,
-        image: Work4,
-        title: "App movil",
-        category: "app",
+        image: Work7,
+        title: "Eduardo Pineda | Video Portfolio",
+        category: "HTML & CSS",
     },
     {
         id: 5,
-        image: Work5,
-        title: "Web design",
-        category: "web",
+        image: Work3,
+        title: "Text encriptor",
+        category: "HTML & CSS",
+    },
+    {
+        id: 6,
+        image: Work6,
+        title: "Solar Waffle",
+        category: "HTML & CSS",
+    },
+    {
+        id: 7,
+        image: Work1,
+        title: "Coding Quiz",
+        category: "HTML & CSS",
     },
 ];
 
@@ -42,12 +56,9 @@ export const projectNav = [
         name: "all",
     },
     {
-        name: "web",
+        name: "HTML & CSS",
     },
     {
-        name: "app",
-    },
-    {
-        name: "design",
+        name: "React App",
     },
 ];
