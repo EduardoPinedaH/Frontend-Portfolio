@@ -5,6 +5,9 @@ import Work4 from "../../assets/oregonracing2.png";
 import Work5 from "../../assets/roomiehunt2.png";
 import Work6 from "../../assets/solarwaffle2.png";
 import Work7 from "../../assets/videoportfolio2.png";
+import Work8 from "../../assets/Galaxy Generator.png";
+import Work9 from "../../assets/Animation on Scroll.png";
+import Work10 from "../../assets/Haunted House.png";
 
 export const projectsData = [
     {
@@ -30,6 +33,24 @@ export const projectsData = [
         image: Work7,
         title: "Eduardo Pineda | Video Portfolio",
         category: "HTML & CSS",
+    },
+    {
+        id: 8,
+        image: Work8,
+        title: "Galaxy Generator",
+        category: "ThreeJS",
+    },
+    {
+        id: 9,
+        image: Work9,
+        title: "Animation on Scroll",
+        category: "ThreeJS",
+    },
+    {
+        id: 10,
+        image: Work10,
+        title: "Haunted House",
+        category: "ThreeJS",
     },
     {
         id: 5,
@@ -60,5 +81,8 @@ export const projectNav = [
     },
     {
         name: "React App",
+    },
+    {
+        name: "ThreeJS",
     },
 ];

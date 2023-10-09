@@ -139,7 +139,7 @@ const Qualification = () => {
                                     Web Development
                                 </h3>
                                 <span className='qualification__subtitle'>
-                                    Personal Portfolio
+                                    Video Portfolio
                                 </span>
                                 <div className='qualification__calender'>
                                     <i className='uil uil-calendar-alt'></i>{" "}
