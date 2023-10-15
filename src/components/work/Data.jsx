@@ -8,6 +8,9 @@ import Work7 from "../../assets/videoportfolio2.png";
 import Work8 from "../../assets/Galaxy Generator.png";
 import Work9 from "../../assets/Animation on Scroll.png";
 import Work10 from "../../assets/Haunted House.png";
+import Work11 from "../../assets/threejs_custom-shirt.png";
+import Work12 from "../../assets/travel-app_demo.png";
+import Work13 from "../../assets/nike_ui-ux.png";
 
 export const projectsData = [
     {
@@ -37,6 +40,27 @@ export const projectsData = [
         title: "Eduardo Pineda | Video Portfolio",
         category: "HTML & CSS",
         url: "https://eduardopinedah.com/",
+    },
+    {
+        id: 13,
+        image: Work13,
+        title: "Nike Landing Page",
+        category: "React App",
+        url: "https://nike-landing-clone.vercel.app/",
+    },
+    {
+        id: 11,
+        image: Work11,
+        title: "Custom T-Shirt",
+        category: "ThreeJS",
+        url: "https://threejs-ai-theta.vercel.app/",
+    },
+    {
+        id: 12,
+        image: Work12,
+        title: "Travel App Landing Page",
+        category: "React App",
+        url: "https://travel-app-demo-rouge.vercel.app/",
     },
     {
         id: 8,
