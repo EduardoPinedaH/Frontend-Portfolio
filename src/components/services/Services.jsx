@@ -52,35 +52,39 @@ const Services = () => {
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        I develop the user interface.
+                                        Create immersive 3D for interactive web
+                                        experiences.
                                     </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        Web page development.
+                                        Design WebGL and optimize for AR/VR.
                                     </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        I create ux element interactions.
+                                        Develop 3D product showcases for
+                                        e-commerce sites.
                                     </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        3D Web designs and graphic elements.
+                                        Collaborate with architects and product
+                                        designers.
                                     </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        Creative design that matches your needs.
+                                        Enhance web engagement through 3D
+                                        visualizations.
                                     </p>
                                 </li>
                             </ul>
@@ -129,35 +133,40 @@ const Services = () => {
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        I develop the user interface.
+                                        Craft user-friendly interfaces and
+                                        ensure mobile responsiveness.
                                     </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        Web page development.
+                                        Elevate navigation, enhance interaction,
+                                        and optimize UX.
                                     </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        I create ux element interactions.
+                                        Improve information architecture for
+                                        user conversion.
                                     </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        3D Web designs and graphic elements.
+                                        Collaborate with developers to ensure
+                                        design consistency.
                                     </p>
                                 </li>
 
                                 <li className='services__modal-service'>
                                     <i className='uil uil-check-circle services__modal-icon'></i>
                                     <p className='services__modal-info'>
-                                        Creative design that matches your needs.
+                                        Conduct research to inform wireframes
+                                        and prototypes.
                                     </p>
                                 </li>
                             </ul>
