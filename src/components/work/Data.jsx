@@ -11,8 +11,16 @@ import Work10 from "../../assets/Haunted House.png";
 import Work11 from "../../assets/threejs_custom-shirt.png";
 import Work12 from "../../assets/travel-app_demo.png";
 import Work13 from "../../assets/nike_ui-ux.png";
+import Work14 from "../../assets/hotel_gloriagave.png";
 
 export const projectsData = [
+    {
+        id: 14,
+        image: Work14,
+        title: "Hotel Gloriagave",
+        category: "React",
+        url: "https://hotelgloriagave.com/",
+    },
     {
         id: 1,
         image: Work5,
