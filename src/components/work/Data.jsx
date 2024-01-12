@@ -18,7 +18,7 @@ export const projectsData = [
         id: 14,
         image: Work14,
         title: "Hotel Gloriagave",
-        category: "React",
+        category: "React App",
         url: "https://hotelgloriagave.com/",
     },
     {
